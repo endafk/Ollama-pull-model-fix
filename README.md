@@ -4,6 +4,8 @@
 
 This repository contains a Bash script designed to fix the problem that most people go through while pulling models from Ollama. When pulling models from ollama sometimes the download starts going backwards and retrying. This fixes that.
 
+Edit the script depending on your operating system and put the model(s) you want to pull.
+
 # Windows
 
 You might need to adjust your execution policy to run scripts.
